@@ -1,7 +1,7 @@
 {
   "name": "@ajayos/database-manager",
   "version": "1.0.0",
-  "description": "database for keerthana",
+  "description": "database manager for keerthana",
   "main": "index.js",
   "scripts": {
     "test": "mocha"

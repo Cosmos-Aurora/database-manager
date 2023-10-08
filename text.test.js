@@ -9,10 +9,10 @@ describe('DATABASE', () => {
 
   it('should set and get user data', async () => {
     const userData = {
-      user: 'John Doe',
+      user: 'Ajay o s',
       number: '12345',
-      email: 'johndoe@example.com',
-      token: 'abcdefg',
+      email: 'ajayos@example.com',
+      token: 'hgsdiufytwuw97ry^RTS67u',
       database: 'sqlite',
     };
 
