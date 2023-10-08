@@ -15,7 +15,7 @@
     "nodedb"
   ],
   "author": "Ajay o s",
-  "license": "ISC",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/keerthana-bot/database-manager/issues"
   },
