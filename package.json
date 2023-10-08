@@ -1,0 +1,30 @@
+{
+  "name": "@ajayos/database-manager",
+  "version": "1.0.0",
+  "description": "database for keerthana",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keerthana-bot/database-manager.git"
+  },
+  "keywords": [
+    "database",
+    "nodedb"
+  ],
+  "author": "Ajay o s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keerthana-bot/database-manager/issues"
+  },
+  "homepage": "https://github.com/keerthana-bot/database-manager#readme",
+  "dependencies": {
+    "@ajayos/nodedb": "^1.1.0"
+  },
+  "devDependencies": {
+		"chai": "^4.3.10",
+		"mocha": "^10.2.0"
+	}
+}
